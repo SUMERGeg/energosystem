@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ПИК Группа",
+    "image_filename": "client-1.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_1.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "УкрРосМеталл",
+    "image_filename": "client-2.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_2.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "Сбербанк",
+    "image_filename": "client-3.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_3.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "ИнжКапСтрой",
+    "image_filename": "client-4.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_4.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "Лидер Инвест",
+    "image_filename": "client-5.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_5.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "КОРТРОС",
+    "image_filename": "client-6.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_6.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "МонАрх",
+    "image_filename": "client-7.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_7.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  },
+  {
+    "name": "Домстрой",
+    "image_filename": "client-8.webp",
+    "image_source_url": "https://energosystemrus.ru/assets/images/dist/our_zakazchiki_8.webp",
+    "source_url": "https://energosystemrus.ru/",
+    "identification": "Надпись на оригинальном логотипе проверена визуально"
+  }
+]
